@@ -1,0 +1,13 @@
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\bin\Debug\Winform_calculator.exe.config
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\bin\Debug\Winform_calculator.exe
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\bin\Debug\Winform_calculator.pdb
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.Form1.resources
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.Properties.Resources.resources
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.exe
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.pdb
+c:\users\admin\source\repos\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.exe
+C:\Users\Admin\Desktop\Winform_calculator\Winform_calculator\obj\Debug\Winform_calculator.pdb
